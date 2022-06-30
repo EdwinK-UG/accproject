@@ -1,0 +1,75 @@
+body {
+    background-color: white;
+  }
+  
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    direction: rtl;
+  }
+  li a {
+    width: 200px;
+     color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 13px;
+  }
+  /* Change the link color on hover */
+  li a:hover {
+  
+  color: black;
+     text-decoration: underline;
+  }
+  
+  .input-icons i {
+    position: absolute;
+               margin-top: 25px;
+          }
+  
+          .input-icons {
+              width: 100%;
+              margin-bottom: 0px;
+              margin-top: 90px;
+          }
+  
+          .icon {
+              padding: 10px;
+              min-width: 40px;
+              color: #FFFFFF;
+          }
+  
+          .input-field {
+              width: 560px;
+              padding: 10px;
+        margin-top: 20px;
+        border-width: thick;
+        border-color: #FFFFFF;
+        background-color: yellow;
+       
+        
+          }
+          .imglogo {
+            margin-top: 10px;
+          }
+          input {
+    text-align: center;
+  }
+  
+  .T8VaVe {
+    color: #4285f4;
+    margin-left: 220px;
+   font: 16px/16px, roboto-regular, arial, sans-serif;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
